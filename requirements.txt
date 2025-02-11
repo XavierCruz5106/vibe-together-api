@@ -1,0 +1,5 @@
+coreapi
+djangorestframework>=3.14.0
+django==4.2.6
+djangorestframework==3.14.0
+drf-spectacular
